@@ -137,12 +137,12 @@
 
     // firebase push notification
     var firebaseConfig = {
-        apiKey: "AIzaSyB0pWogHh4EW2lqj8_M1mFptMSrSTKXYsI",
-        authDomain: "parso-462c2.firebaseapp.com",
-        projectId: "parso-462c2",
-        storageBucket: "parso-462c2.appspot.com",
-        messagingSenderId: "5600097210",
-        appId: "1:5600097210:web:9d437224b1b139cc9aa383"
+        apiKey: "AIzaSyCsEfnTYZg4N2AKkqVI6mKMygq6GKX4lhU",
+        authDomain: "adakpetro-52014.firebaseapp.com",
+        projectId: "adakpetro-52014",
+        storageBucket: "adakpetro-52014.appspot.com",
+        messagingSenderId: "43948055906",
+        appId: "1:43948055906:web:a5711b427e37f8b63f603b"
     };
 
     firebase.initializeApp(firebaseConfig);
